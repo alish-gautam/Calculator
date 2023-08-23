@@ -1,0 +1,31 @@
+button{
+    padding: 60px;
+    font-size: 30px;
+}
+.calculator{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 5%;
+    /* border: 2px solid black; */
+    width: 20%;
+}
+.row1,.row2,.row3,.row4,.row5{
+    display: flex;
+}
+.Clear{
+    padding: 38px;
+}
+.display{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 3%;
+    height: 5%;
+    font-size: 40px;
+}
+.display{
+    min-width: 80%;
+    margin-bottom: 2%;
+}
